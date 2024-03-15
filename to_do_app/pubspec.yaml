@@ -1,0 +1,32 @@
+name: to_do_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.1 <4.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  google_fonts: ^6.1.0
+  intl: ^0.19.0
+  flutter_animate: ^4.5.0
+  flutter_slidable: ^3.0.1
+  sqflite: ^2.3.2
+  path_provider: ^2.1.2
+  sqflite_common_ffi: ^2.3.2+1
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/displayImage.png
+    - assets/toDo1.svg
+    - assets/toDo2.svg
+    - assets/toDo3.svg
+    - assets/toDo4.svg
+    - assets/loginImg1.gif
+    - assets/loginImg2.gif
