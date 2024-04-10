@@ -28,5 +28,8 @@ flutter:
     - assets/toDo2.svg
     - assets/toDo3.svg
     - assets/toDo4.svg
+
     - assets/loginImg1.gif
     - assets/loginImg2.gif
+    - assets/login.svg
+    - assets/register.svg
